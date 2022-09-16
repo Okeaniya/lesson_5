@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@500;700;900&display=swap');
+@font-face {
+	font-family: 'IBM Plex Mono';
+	src: url("../fonts/IBMPlexMono-MediumItalic.woff2") format('woff2'),
+		 url("../fonts/IBMPlexMono-MediumItalic.woff") format('woff');
+	font-weight: 500;
+	font-style: italic;
+	font-display: swap;
+}
+body{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	width: 1200px;
+	margin-left: 200px;
+
+	background-color: rgba(175, 179, 191, 0.66);
+}
+.avimim h2{
+	font-size: 45px;
+	color: rgb(178, 33, 139);
+	text-shadow: 6px 7px 4px #1a0851;
+}
+.header{
+	margin: 15px;
+	padding-left: 50px;
+	text-align: center;
+}
+.header-text{
+	font-style: italic;
+	font-weight: 900;
+	font-size: 35px;
+	color: blue;
+	text-transform: uppercase;
+	
+}
+.avimim{
+	font-family: MediumItalic;
+	font-weight: 600;
+	font-style: italic;
+	font-size: 25px;
+	padding-left: 15px;
+	width: 500px;
+}
+.avimin-text{
+ text-decoration: overline;
+ color: rgba(49, 29, 179, 0.39);
+}
+.allosaurus{
+	font-family: MediumItalic;
+	font-weight: 700;
+	font-style: italic;
+	font-size: 25px;
+	padding-right: 15px;
+	text-align: right;
+	
+}
+.allosaurus h2{
+	font-size: 50px;
+	color: #1a0851;
+	letter-spacing: 20px;
+	text-shadow: -10px -11px 1px #23d60f;
+}
+
+.allosaurus-text{
+	text-decoration: underline;
+	line-height: 1.6;
+	color: olivedrab;
+}
+.apatosaurus{
+text-align: center;
+padding-left: 350px;
+padding-right: 350px;
+line-height: 1.6;
+font-weight: 900;
+}
+.apatosaurus h2{
+	font-size: 55px;
+	color: rgba(255, 255, 0, 0.415);
+	text-shadow: 10px 12px 2px #000000;
+
+}
+.apatosaurus-text{
+	text-decoration: line-through;
+	text-decoration-color: crimson;
+	font-size: 20px;
+	color: rgb(68, 108, 108);
+}
+.afrovenator{
+	font-family: MediumItalic ;
+	font-size: 60px;
+	font-weight: 900;
+	text-shadow: 10px 5px 8px #67d449;
+}
+
+.barozavr{
+	font-weight: 300;
+	font-size: 25px;
+	text-transform: capitalize;
+	text-indent: 35px;
+	margin-bottom: 25px;
+
+}
+.barozavr h2{
+	font-family: MediumItalic;
+	font-weight: 500;
+	color: blueviolet;
+	text-align: center;
+	font-size: 60px;
+	text-decoration: underline;
+
+}
+.barozavr-text{
+	color: rgba(0, 0, 0, 0.586);
+
+}
+.brachiosaurus{
+	font-weight: 600;
+	color: #103905;
+	text-align: justify;
+	margin-bottom: 30px;
+	line-height: 1.5;
+	word-spacing: 50px;
+}
+.velociraptor{
+	background-color: rgba(157, 99, 211, 0.585);
+	font-size: 25px;
+	letter-spacing: 5px;
+	line-height: 1.7;
+	padding: 15px;
+}
+.velociraptor h2{
+	font-size: 50px;
+	color: #932345;
+	text-align: center;
+}
+span{
+	color: rgba(16, 4, 54, 0.667);
+	background-color: #103905;
+}
+.deynonih{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 30px;
+	font-weight: 600;
+	width: 600px;
+	text-align: right;
+	margin-left: 500px;
+	color: magenta;
+}
+.deynonih-text{
+	letter-spacing: 10px;
+	color: #d44c75;
+}
+
+.lexovisaurus{
+	text-align: center;
+	font-style: italic;
+	font-size: 25px;
+	color: rgba(186, 29, 81, 0.378);
+	background-color: #120e16;
+	margin: 20px 35px 20px 35px;
+	padding: 20px;
+}
+.tirannozavr{
+	font-family: MediumItalic;
+	font-style: oblique;
+	font-size: 33px;
+	line-height: 1.7;
+}
+.text-space{
+	white-space: nowrap;
+	color: #422f55;
+	text-decoration: underline;
+}
+.text-right{
+	text-align: right;
+	color: #600923;
+}
+.text-left{
+	margin-left: -100px;
+	color: #932345;
+}
+.text-center{
+	text-align: center;
+	text-decoration: underline;
+	color: darkorange;
+
+}
+.tirannozavr h2{
+	font-weight: 800;
+	font-size: 40px; 
+	text-align: center;
+	text-shadow:15px -15px 3px rgb(219, 12, 54);
+	letter-spacing: 10px;
+	color: #932345;
+
+}
+.footer-text{
+ text-align: center;
+ color: teal;
+ background-color: #031c2c;
+ margin-top: 50px;
+ padding: 50px;
+}
+
+
+font-family: 'Encode Sans Expanded', sans-serif;
